@@ -26,4 +26,4 @@ These terms and conditions are effective as of 2020-12-11
 
 If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at productions.cornerstone@gmail.com.
 
-Thank you .
+Thank you.
