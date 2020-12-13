@@ -9,17 +9,18 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-No information will be collected by me in any way.
+This app won't collect any information.  We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.
 
+If we collect any personal information, We only retain collected information for as long as necessary to provide you with your requested service. What data we store, we’ll protect within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use or modification.
+
+We don’t share any personally identifying information publicly or with third-parties, except when required to by law.
+
+You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.
 
 **Log Data**
 
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information on your phone called Log Data. This Log Data may include information such as your device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
-
-**Security**
-
-We do not collect any personal information of yours.
 
 
 **Changes to This Privacy Policy**
